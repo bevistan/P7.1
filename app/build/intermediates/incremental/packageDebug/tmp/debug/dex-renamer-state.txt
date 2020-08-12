@@ -1,0 +1,4 @@
+#Wed Aug 12 21:34:09 SGT 2020
+base.0=C\:\\Users\\User\\Desktop\\P7.1-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
